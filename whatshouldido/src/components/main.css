@@ -7,6 +7,12 @@
 }
 
 textarea {
-  width: 100%;
+  width: 99%;
   display: block;
+}
+
+button {
+  width: 100%;
+  height: auto;
+  font-size: larger;
 }
