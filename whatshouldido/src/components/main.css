@@ -17,6 +17,6 @@ button {
   height: auto;
   font-size: large;
   color: violet;
-
+  border: 2px solid chartreuse;
 }
 
